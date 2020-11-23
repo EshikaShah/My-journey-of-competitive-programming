@@ -1,3 +1,9 @@
+/*
+Write C++ code to find the sum and average of n numbers using classes and objects
+*/
+
+
+
 #include<iostream>
 #include<vector>
 
