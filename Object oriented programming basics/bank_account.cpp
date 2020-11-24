@@ -1,3 +1,8 @@
+/* 
+Create a class account that maintains acc_no, name, and balance. 
+Perform deposit, withdrawal, balance check and can print transaction history. 
+*/
+
 #include<iostream>
 
 using namespace std;
