@@ -17,3 +17,7 @@ def isIsomorphic(s, t):
         e[t[i]] = s[i]
     return True
         
+## Better solution
+def isIsomorphic(s, t):
+    d = set(zip(s, t))
+    return len(d) == len(set(s)) == len(set(t))
